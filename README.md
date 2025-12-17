@@ -17,7 +17,6 @@
 
   <div class="container">
     <div class="header">
-      <img id="avatar" class="avatar" src="Avatar">
       <h1>Angela Figueroa</h1>
       <div class="subtitle">Official Fan Card • Diamond Tier</div>
       <div class="card-id">#0047 • ████ ████ ████ 8921</div>
